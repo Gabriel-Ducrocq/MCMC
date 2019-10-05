@@ -1,0 +1,5 @@
+*.npy
+*.json
+*.png
+venv
+__pycache__
